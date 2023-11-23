@@ -99,7 +99,7 @@ Make sure that you have the following:
 ![x](https://github.com/zhiming97/automated-futures-trading-news-based/assets/97498951/f2d617a7-564f-4c1c-a733-060d92cd3637)
 
 
-**This is just a basic script that helps users to execute trades based on X's post. More conditions can be added to the scripts by the users themselves.*
+**This is just a basic script that helps users to execute trades based on X's post. More conditions can be added to the script by the users themselves.*
 
 ** **<i>RISK DISCLOSURE** **
 
