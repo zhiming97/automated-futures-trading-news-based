@@ -66,12 +66,10 @@ This bot aims to assist the user to catch every exponential pump of a certain me
 
 In 2021, Dogecoin has withnessed a exponential rise in value after Elon Musk started to tweet about it. Based on past data, it can be concluded that Dogecoin price will pump by approximately 10% everytime when Elon Musk mentioned the coin in his post. Fast forward to today, there is a new memecoin called "Grok" which is named after X's latest product, which is called xAI Grok. (Grok is a xAI's large language model (LLM) which is similar to that of OpenAI's chatgpt) It is believed that the memecoin is created to somewhat mimic Dogecoin in the hope of manipulating the price whenever Elon tweets about Grok.
 
-RISK DISCLOSURE !!
+## ** **<i>RISK DISCLOSURE** **
 
-Users acknowledge and assume all financial risks, understanding that theis Bot provides no guarantees, and the creator(s) are not liable for any financial losses, given the unpredictable nature of markets and the possibility of technical issues, and users are encouraged to have at least basic programming knowledge before using the Bot.
+Users acknowledge and assume all financial risks, understanding that theis Bot provides no guarantees, and the creator(s) are not liable for any financial losses, given the unpredictable nature of markets and the possibility of technical issues, and users are encouraged to have at least basic programming knowledge before using the Bot.</i>*
 
-
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -79,8 +77,11 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
+* ![images](https://github.com/zhiming97/automated-futures-trading-news-based/assets/97498951/e6a2b4a4-ce0f-4c6e-ae2c-3c3ad01e5305)
+
+
+* ![Unknown](https://github.com/zhiming97/automated-futures-trading-news-based/assets/97498951/9a489c4c-2e9c-42c8-8207-8142754f926f)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -222,9 +223,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/zhiming97
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://repository-images.githubusercontent.com/201450432/e30c2880-1b5f-11eb-88ff-c7815d6109a3
+[Next.js]: https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.jpg
 [Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React.js]: 
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
