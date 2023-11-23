@@ -1,6 +1,6 @@
 # Automated News-Based Futures Trading Bot
 
-This bot aims to assist the user to catch every exponential pump of a certain meme coin based on post on X (formerly known as twitter)
+This bot aims to assist the user to catch every exponential pump of a certain meme coin based on posts on X (formerly known as twitter)
 
 
 <!-- Improved compatibility of back to top link: See: https://github.com/pull/73 -->
@@ -27,29 +27,7 @@ This bot aims to assist the user to catch every exponential pump of a certain me
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Best-README-Template</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/">View Demo</a>
-    ·
-    <a href="https://github.com/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/issues">Request Feature</a>
-  </p>
-</div>
+![Unknown](https://github.com/zhiming97/automated-futures-trading-news-based/assets/97498951/0e794573-28b3-4ce7-aef3-7290fbc53b0a)
 
 
 
@@ -84,16 +62,14 @@ This bot aims to assist the user to catch every exponential pump of a certain me
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![images](https://github.com/zhiming97/automated-futures-trading-news-based/assets/97498951/05241655-d12c-4a62-8f50-dd2694ccf4fe)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+In 2021, Dogecoin has withnessed a exponential rise in value after Elon Musk started to tweet about it. Based on past data, it can be concluded that Dogecoin price will pump by approximately 10% everytime when Elon Musk mentioned the coin in his post. Fast forward to today, there is a new memecoin called "Grok" which is named after X's latest product, which is called xAI Grok. (Grok is a xAI's large language model (LLM) which is similar to that of OpenAI's chatgpt) It is believed that the memecoin is created to somewhat mimic Dogecoin in the hope of manipulating the price whenever Elon tweets about Grok.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+RISK DISCLOSURE !!
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Users acknowledge and assume all financial risks, understanding that theis Bot provides no guarantees, and the creator(s) are not liable for any financial losses, given the unpredictable nature of markets and the possibility of technical issues, and users are encouraged to have at least basic programming knowledge before using the Bot.
+
 
 Use the `BLANK_README.md` to get started.
 
@@ -103,16 +79,9 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -253,7 +222,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/zhiming97
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next.js]: https://repository-images.githubusercontent.com/201450432/e30c2880-1b5f-11eb-88ff-c7815d6109a3
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
