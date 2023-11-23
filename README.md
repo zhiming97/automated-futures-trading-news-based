@@ -2,7 +2,7 @@
 
 # Automated News-Based Futures Trading Bot
 
-This bot aims to assist the user to catch every exponential pump of a certain meme coin based on posts on X (formerly known as twitter)
+This bot aims to assist the user to capitalize on every exponential pump of a certain meme coin based on posts on X (formerly known as twitter)
 
 
 <!-- Improved compatibility of back to top link: See: https://github.com/pull/73 -->
@@ -106,7 +106,7 @@ Make sure that you have the following:
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
