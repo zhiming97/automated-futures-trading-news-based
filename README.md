@@ -1,4 +1,4 @@
-<p style="text-align:justify;"></p>
+
 
 # Automated News-Based Futures Trading Bot
 
@@ -33,7 +33,7 @@ This bot aims to assist the user to catch every exponential pump of a certain me
 
 
 
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS 
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -57,27 +57,18 @@ This bot aims to assist the user to catch every exponential pump of a certain me
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
-</details>
+</details>-->
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+# About The Project
 
 ![images](https://github.com/zhiming97/automated-futures-trading-news-based/assets/97498951/05241655-d12c-4a62-8f50-dd2694ccf4fe)
 
-In 2021, Dogecoin has withnessed a exponential rise in value after Elon Musk started to tweet about it. Based on past data, it can be concluded that Dogecoin price will pump by approximately 10% everytime when Elon Musk mentioned the coin in his post. Fast forward to today, there is a new memecoin called "Grok" which is named after X's latest product, which is called xAI Grok. (Grok is a xAI's large language model (LLM) which is similar to that of OpenAI's chatgpt) It is believed that the memecoin is created to somewhat mimic Dogecoin in the hope of manipulating the price whenever Elon tweets about Grok.
+ <div align="justify">In 2021, Dogecoin has withnessed a exponential rise in value after Elon Musk started to tweet about it. Based on past data, it can be concluded that Dogecoin price will pump by approximately 10% everytime when Elon Musk mentioned the coin in his post. Fast forward to today, there is a new memecoin called "Grok" which is named after X's latest product, which is called xAI Grok. (Grok is a xAI's large language model (LLM) which is similar to that of OpenAI's chatgpt) It is believed that the memecoin is created to somewhat mimic Dogecoin in the hope of manipulating the price whenever Elon tweets about Grok.</div>
 
-## ** **<i>RISK DISCLOSURE** **
-
-Users acknowledge and assume all financial risks, understanding that theis Bot provides no guarantees, and the creator(s) are not liable for any financial losses, given the unpredictable nature of markets and the possibility of technical issues, and users are encouraged to have at least basic programming knowledge before using the Bot.</i>*
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-### Built With
+# Built With
 
 * ![images](https://github.com/zhiming97/automated-futures-trading-news-based/assets/97498951/e6a2b4a4-ce0f-4c6e-ae2c-3c3ad01e5305)
 
@@ -86,43 +77,36 @@ Users acknowledge and assume all financial risks, understanding that theis Bot p
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- GETTING STARTED -->
-## Getting Started
+# Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Make sure that you have the following:
+* Python version 3.10.9 or higher
+* Google Chrome
+* Microsoft Visual Code
+* X Account (Basic Plan or above)
+* MEXC Exchange Account
 
-### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+## Installation
 
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Make sure to install the relevant libraries
+   ```sh
+   pip install -r requirements.txt
+   ```
+3. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-3. Install NPM packages
+4. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+5. Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -136,41 +120,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+** **<i>RISK DISCLOSURE** **
 
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+<div align="justify">Users acknowledge and assume all financial risks, understanding that theis Bot provides no guarantees, and the creator(s) are not liable for any financial losses, given the unpredictable nature of markets and the possibility of technical issues, and users are encouraged to have at least basic programming knowledge before using the Bot.</i>*</div>
 
 <!-- LICENSE -->
 ## License
