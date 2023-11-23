@@ -99,9 +99,11 @@ Make sure that you have the following:
 ![x](https://github.com/zhiming97/automated-futures-trading-news-based/assets/97498951/f2d617a7-564f-4c1c-a733-060d92cd3637)
 
 
+**This is just a basic script that helps users to execute trades based on X's post. More conditions can be added to the scripts by the users themselves.*
+
 ** **<i>RISK DISCLOSURE** **
 
-<div align="justify">Users acknowledge and assume all financial risks, understanding that theis Bot provides no guarantees, and the creator(s) are not liable for any financial losses, given the unpredictable nature of markets and the possibility of technical issues, and users are encouraged to have at least basic programming knowledge before using the Bot.</i>*</div>
+<div align="justify">Users acknowledge and assume all financial risks, understanding that this Bot provides no guarantees, and the creator(s) are not liable for any financial losses, given the unpredictable nature of markets and the possibility of technical issues, and users are encouraged to have at least basic programming knowledge before using the Bot.</i>*</div>
 
 <!-- LICENSE -->
 ## License
