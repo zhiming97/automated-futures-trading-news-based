@@ -1,3 +1,5 @@
+<p style="text-align:justify;"></p>
+
 # Automated News-Based Futures Trading Bot
 
 This bot aims to assist the user to catch every exponential pump of a certain meme coin based on posts on X (formerly known as twitter)
