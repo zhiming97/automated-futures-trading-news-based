@@ -98,6 +98,10 @@ Make sure that you have the following:
 
 ![x](https://github.com/zhiming97/automated-futures-trading-news-based/assets/97498951/f2d617a7-564f-4c1c-a733-060d92cd3637)
 
+# Upgraded Version - Coming Soon
+* To Introduce Post-Only/Limit Orders - To save the Taker Fees
+* To Introduce Stop Loss and Take Profit Mode - To maximise the gains
+* To Alert Users When Someting Goes Wrong
 
 **This is just a basic script that helps users to execute trades based on X's post. More conditions can be added to the script by the users themselves.*
 
