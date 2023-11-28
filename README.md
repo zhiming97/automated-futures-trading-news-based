@@ -84,7 +84,7 @@ Make sure that you have the following:
 * Google Chrome
 * Microsoft Visual Code
 * X Account (Basic Plan or above)
-* MEXC Exchange Account -> [Link Text](https://www.mexc.com/register?inviteCode=1ejuH)
+* MEXC Exchange Account -> [Click Here To Sign Up](https://www.mexc.com/register?inviteCode=1ejuH)
 
 
 
