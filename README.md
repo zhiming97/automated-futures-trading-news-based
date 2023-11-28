@@ -84,7 +84,7 @@ Make sure that you have the following:
 * Google Chrome
 * Microsoft Visual Code
 * X Account (Basic Plan or above)
-* MEXC Exchange Account
+* MEXC Exchange Account -> Sign Up Now[mexc-url]
 
 
 ## Installation
@@ -125,6 +125,7 @@ Distributed under the MIT License.
 [license-url]: https://github.com/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/zhiming97
+[Click Here To Sign Up]:https://www.mexc.com/register?inviteCode=1ejuH
 
 [Next.js]: https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.jpg
 [Next-url]: https://nextjs.org/
