@@ -103,6 +103,10 @@ Make sure that you have the following:
 * To Introduce Post-Only/Limit Orders - To save the Taker Fees
 * To Introduce Stop Loss and Take Profit Mode - To maximise the gains
 * To Alert Users When Someting Goes Wrong
+* Auto Refresh Chrome Browser After Running Out of Memory
+* Dynamic Take Profit Levels Based on Entry Timing
+* Kill Switch to Prevent Accidental Entry on Invalid Post
+
 
 **This is just a basic script that helps users to execute trades based on X's post. More conditions can be added to the script by the users themselves.*
 
