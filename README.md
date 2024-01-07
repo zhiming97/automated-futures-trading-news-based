@@ -83,7 +83,7 @@ Make sure that you have the following:
 * Python version 3.10.9 or higher
 * Google Chrome
 * Microsoft Visual Code
-* X Account (Basic Plan or above)
+* X Account (Premium or above)
 * MEXC Exchange Account -> [Click Here To Sign Up](https://www.mexc.com/register?inviteCode=1ejuH)
 
 
