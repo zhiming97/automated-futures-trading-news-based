@@ -20,16 +20,6 @@ browser = uc.Chrome(options=options, use_subprocess=True)
 browser.set_window_position(400,0)
 browser.set_window_size(1300,1050)
 
-#Load the cookies
-def loadcookies(x):
-    try:
-        with open(x,'r') as f:
-            return json.load(f)
-    except FileNotFoundError:
-        return None
-    
-storedcookies = loadcookies('mexccookies.json')
-
 # Execute JavaScript to open a new tab
 browser.execute_script("window.open('about:blank', '_blank');")
 firsttab = browser.switch_to.window(browser.window_handles[0])
@@ -38,7 +28,6 @@ browser.get("https://futures.mexc.com/exchange/GROK_USDT")
 secondtab = browser.switch_to.window(browser.window_handles[-1])
 browser.get("https://twitter.com/elonmusk")
 time.sleep(4)
-
 
 #Open another exchange in a different google chrome (browser1)
 options1 = uc.ChromeOptions()
