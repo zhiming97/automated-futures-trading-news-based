@@ -102,8 +102,7 @@ Make sure that you have the following:
 * Auto Refresh Chrome Browser After Running Out of Memory
 * Dynamic Take Profit Levels Based on Entry Timing
 * Kill Switch to Prevent Accidental Entry on Invalid Post
-* Concurrent Entries on multiple exchanges - To maximize profits
-
+* Concurrent Entries on Multiple Exchanges
 
 **This is just a basic script that helps users to execute trades based on X's post. More conditions can be added to the script by the users themselves.*
 
