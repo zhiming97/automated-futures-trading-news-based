@@ -95,14 +95,14 @@ Make sure that you have the following:
 2. Run the script
 3. Wait for MOON
 
-# Upgraded Version - Coming Soon
-* To Introduce Post-Only/Limit Orders - To save the Taker Fees
-* To Introduce Stop Loss and Take Profit Mode - To maximise the gains
-* To Alert Users When Someting Goes Wrong
-* Auto Refresh Chrome Browser After Running Out of Memory
-* Dynamic Take Profit Levels Based on Entry Timing
-* Kill Switch to Prevent Accidental Entry on Invalid Post
-* Concurrent Entries on Multiple Exchanges
+# Upgraded Version - Completed
+* To Introduce Post-Only/Limit Orders - To save the Taker Fees ✅
+* To Introduce Stop Loss and Take Profit Mode - To maximise the gains ✅
+* To Alert Users When Someting Goes Wrong ✅
+* Auto Refresh Chrome Browser After Running Out of Memory ✅
+* Dynamic Take Profit Levels Based on Entry Timing ✅
+* Kill Switch to Prevent Accidental Entry on Invalid Post ✅
+* Concurrent Entries on Multiple Exchanges ✅
 
 **This is just a basic script that helps users to execute trades based on X's post. More conditions can be added to the script by the users themselves.*
 
