@@ -63,8 +63,6 @@ This bot aims to assist the user to capitalize on every exponential pump of a ce
 <!-- ABOUT THE PROJECT -->
 # About The Project
 
-![Unknown](https://github.com/zhiming97/automated-futures-trading-news-based/assets/97498951/0e794573-28b3-4ce7-aef3-7290fbc53b0a)
-
  <div align="justify">In 2021, Dogecoin has withnessed a exponential rise in value after Elon Musk started to tweet about it. Based on past data, it can be concluded that Dogecoin price will pump by approximately 10% everytime when Elon Musk mentioned the coin in his post. Fast forward to today, there is a new memecoin called "Grok" which is named after X's latest product, which is called xAI Grok. (Grok is a xAI's large language model (LLM) which is similar to that of OpenAI's chatgpt) It is believed that the memecoin is created to somewhat mimic Dogecoin in the hope of manipulating the price whenever Elon tweets about Grok.</div>
 
 # Built With
@@ -96,8 +94,6 @@ Make sure that you have the following:
    ```
 2. Run the script
 3. Wait for MOON
-
-![x](https://github.com/zhiming97/automated-futures-trading-news-based/assets/97498951/f2d617a7-564f-4c1c-a733-060d92cd3637)
 
 # Upgraded Version - Coming Soon
 * To Introduce Post-Only/Limit Orders - To save the Taker Fees
